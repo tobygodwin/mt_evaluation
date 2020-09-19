@@ -1,7 +1,7 @@
 ## Readme
 #### Machine Translation Evaluation
 
-This notebook was produced as part of a team (Alfred Tingy, Korbi Friedl, Toby Godwin) and formed part of the submission for an NLP Coursework
+This notebook was produced as part of a team of 3 and formed part of the submission for an NLP Coursework
 
 All of the code that we have produced is present in a .ipynb file, which should be run using Google Colab. The code that we have provided aims to predict the quality of a machine translated sentence, where the translation is between English and German sentences. The data consists of pairs of English sentences and their machine-translated counterparts. The labels for this task were a direct assessment (DA) score for each sentence. The DA score is given by humans, where 0 is the lowest possible quality, and 100 is a perfect translation. The DA scores were presented in a z-standardised form per annotator. 
 
